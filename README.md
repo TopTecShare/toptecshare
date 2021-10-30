@@ -16,3 +16,7 @@
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=KingdomParadise&theme=gotham" />
 </div>
+
+![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
+
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=KingdomParadise&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
