@@ -53,9 +53,9 @@ Also, I am confident that I am offering the best deals possible, awesome feedbac
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingdomParadise&layout=compact&theme=gotham&count_private=true" />
 </div>
- ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
-  ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=KingdomParadise&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=KingdomParadise&theme=gotham" />
 </div>
+![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
 
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=KingdomParadise&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
