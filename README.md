@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am TopTecShare</h1>
+<h1 align="center">Hi 😊, I am TopTecShare</h1>
 <h3 align="center">Smart Contract developer || Senior Full-stack devloper</h3>
 
 I have worked on several projects for clients in a variety of
@@ -60,4 +60,4 @@ Also, I am confident that I am offering the best deals possible, awesome feedbac
 
 ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
 
-![Toptecshare's github stats](https://github-readme-stats.vercel.app/api?username=toptecshare&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
+![Toptecshare's github stats](https://github-readme-stats.vercel.app/api?username=toptecshare&count_private=true&show_icons=true&custom_title=stats%20TopTecShare&theme=radical)
